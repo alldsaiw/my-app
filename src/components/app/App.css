@@ -1,0 +1,35 @@
+.App {
+    max-width: 70%;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+}
+
+button {
+    background-color: #D9CCC3;
+    border: 1px solid #615B62;
+    border-radius: 5px;
+    margin-left: 2em;
+    height: 2em;
+    color: #501E1F;
+    margin-left: 2em;
+}
+
+ul {
+    margin-top: 0.5em;
+    width: 100%;
+    padding: 1em;
+    background-color: #CCBCAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid #B7A7AE;
+    box-shadow: 3px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+h2 { 
+   font-family: 'Raleway', sans-serif;
+    color: #501E1F;
+    font-size: 1.5em;
+}

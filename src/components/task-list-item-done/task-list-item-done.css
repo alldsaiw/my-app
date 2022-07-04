@@ -1,0 +1,10 @@
+.item-done {
+    background-color: #f0ece8;
+    list-style-type: none;
+    height: 2.5em;
+    margin-bottom: 0.5em;
+    border: 1px solid #CCBCAD;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}

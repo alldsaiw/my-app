@@ -1,9 +1,20 @@
 .app-header {
-    margin: 0 auto;
-    background-color: #554D74;
-    height: 100px;
+    background-color: #CCBCAD;
+    height: 6em;
+    border-radius: 10px;
+    border: 1px solid #B7A7AE;
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
 }
 
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Raleway', sans-serif;
+    color: #501E1F;
+    font-size: 2em;
+    margin: auto;
 }
+

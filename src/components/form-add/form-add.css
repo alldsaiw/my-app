@@ -1,0 +1,29 @@
+.form-add-div {
+    margin-top: 0.5em;
+    width: 100%;
+    padding: 1em;
+    background-color: #CCBCAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid #B7A7AE;
+    box-shadow: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.formadd {
+    width: 70%;
+    outline: none;
+    height: 1.8em;
+    border-radius: 5px;
+    border: #9A4505 1px solid;
+    margin-bottom: 1em;
+}
+
+.btn-add {
+    border: #9A4505 1px solid;
+    margin: 0;
+    margin-bottom: 1em;
+}

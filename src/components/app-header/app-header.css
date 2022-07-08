@@ -14,7 +14,20 @@
 h1 {
     font-family: 'Raleway', sans-serif;
     color: #501E1F;
-    font-size: 2em;
+    font-size: 2rem;
+    margin: auto;
+    z-index: 2;
+    position: relative;
+    font-weight: bolder;
+}
+
+.header {
+    font-family: 'Pacifico', cursive;
+    z-index: 1;
+    position: absolute;
+    font-size: 2.4rem;
+    color: #f0eeec;
+    font-weight: bolder;
     margin: auto;
 }
 
